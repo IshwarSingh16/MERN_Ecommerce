@@ -2,7 +2,7 @@
 
 > eCommerce platform built with the MERN stack & Redux.
 
-## Features
+<!-- ## Features
 
 - Full featured shopping cart
 - Product reviews and ratings
@@ -17,7 +17,7 @@
 - Checkout process (shipping, payment method, etc)
 - PayPal / credit card integration
 - Database seeder (products & users)
-
+ -->
 ### Env Variables
 
 Create a .env file in then root and add the following
